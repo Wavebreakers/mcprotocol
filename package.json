@@ -6,6 +6,9 @@
     "name": "Dana Moffit",
     "email": "nodejsplc@gmail.com"
   },
+  "scripts": {
+    "test": "node index.js"
+  },
   "keywords": [
     "MC",
     "FX3U",
